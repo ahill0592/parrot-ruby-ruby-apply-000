@@ -1,5 +1,5 @@
 def parrot(argument)
-  phrase =  "parrot #{argument}"
+  phrase =  "#{argument}"
   puts phrase
   phrase
 end
