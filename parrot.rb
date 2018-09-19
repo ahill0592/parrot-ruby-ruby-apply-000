@@ -1,4 +1,4 @@
-def parrot(argument = "Squawk")
+def parrot(argument = "Squawk!")
   phrase =  "#{argument}"
   puts phrase
   phrase
